@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 
@@ -36,3 +40,14 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Enter marks for 4 subjects (out of 100):
+//Subject 1: 94
+//Subject 2: 89
+//Subject 3: 99
+//Subject 4: 90
+
+//Total Marks = 372/400
+//Average = 93
+//Grade = A
